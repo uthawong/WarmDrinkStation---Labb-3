@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmDrinkStation - Labb 3", "WarmDrinkStation - Labb 3\WarmDrinkStation - Labb 3.csproj", "{700BA4BB-6018-46ED-8B24-4A595E4982E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{700BA4BB-6018-46ED-8B24-4A595E4982E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700BA4BB-6018-46ED-8B24-4A595E4982E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700BA4BB-6018-46ED-8B24-4A595E4982E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700BA4BB-6018-46ED-8B24-4A595E4982E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17A57562-B0E5-4227-BB3F-B1487F7669BC}
+	EndGlobalSection
+EndGlobal
